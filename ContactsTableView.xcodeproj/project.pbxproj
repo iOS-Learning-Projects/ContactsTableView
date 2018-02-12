@@ -8,20 +8,50 @@
 
 /* Begin PBXBuildFile section */
 		E81515CF1ECB7AE500C815FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81515CE1ECB7AE500C815FC /* AppDelegate.swift */; };
-		E81515D11ECB7AE500C815FC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81515D01ECB7AE500C815FC /* ViewController.swift */; };
 		E81515D41ECB7AE500C815FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E81515D21ECB7AE500C815FC /* Main.storyboard */; };
 		E81515D61ECB7AE500C815FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E81515D51ECB7AE500C815FC /* Assets.xcassets */; };
 		E81515D91ECB7AE500C815FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E81515D71ECB7AE500C815FC /* LaunchScreen.storyboard */; };
+		E81515F11ECB7CA200C815FC /* Barack-Obama.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515E51ECB7CA200C815FC /* Barack-Obama.jpg */; };
+		E81515F21ECB7CA200C815FC /* bill-gates.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515E61ECB7CA200C815FC /* bill-gates.jpg */; };
+		E81515F31ECB7CA200C815FC /* Brad-Paisley.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515E71ECB7CA200C815FC /* Brad-Paisley.jpg */; };
+		E81515F41ECB7CA200C815FC /* Brad-Pitt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515E81ECB7CA200C815FC /* Brad-Pitt.jpg */; };
+		E81515F51ECB7CA200C815FC /* evangeline-lilly.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515E91ECB7CA200C815FC /* evangeline-lilly.jpg */; };
+		E81515F61ECB7CA200C815FC /* halle-berry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515EA1ECB7CA200C815FC /* halle-berry.jpg */; };
+		E81515F71ECB7CA200C815FC /* Mila-Kunis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515EB1ECB7CA200C815FC /* Mila-Kunis.jpg */; };
+		E81515F81ECB7CA200C815FC /* miranda-lambert.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515EC1ECB7CA200C815FC /* miranda-lambert.jpg */; };
+		E81515F91ECB7CA200C815FC /* Patricia-Beck.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515ED1ECB7CA200C815FC /* Patricia-Beck.jpg */; };
+		E81515FA1ECB7CA200C815FC /* sara_evans.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515EE1ECB7CA200C815FC /* sara_evans.jpg */; };
+		E81515FB1ECB7CA200C815FC /* steve_jobs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515EF1ECB7CA200C815FC /* steve_jobs.jpg */; };
+		E81515FC1ECB7CA200C815FC /* taylor-swift.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E81515F01ECB7CA200C815FC /* taylor-swift.jpg */; };
+		E81515FE1ECB7CB600C815FC /* contacts.plist in Resources */ = {isa = PBXBuildFile; fileRef = E81515FD1ECB7CB600C815FC /* contacts.plist */; };
+		E81516001ECB7E0E00C815FC /* ContactsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81515FF1ECB7E0E00C815FC /* ContactsTableViewController.swift */; };
+		E81516021ECB7E6B00C815FC /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81516011ECB7E6B00C815FC /* CustomTableViewCell.swift */; };
+		E81516041ECB949C00C815FC /* ContactDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81516031ECB949C00C815FC /* ContactDetailTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E81515CB1ECB7AE500C815FC /* ContactsTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactsTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E81515CE1ECB7AE500C815FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E81515D01ECB7AE500C815FC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E81515D31ECB7AE500C815FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E81515D51ECB7AE500C815FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E81515D81ECB7AE500C815FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E81515DA1ECB7AE500C815FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E81515E51ECB7CA200C815FC /* Barack-Obama.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Barack-Obama.jpg"; sourceTree = "<group>"; };
+		E81515E61ECB7CA200C815FC /* bill-gates.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bill-gates.jpg"; sourceTree = "<group>"; };
+		E81515E71ECB7CA200C815FC /* Brad-Paisley.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Brad-Paisley.jpg"; sourceTree = "<group>"; };
+		E81515E81ECB7CA200C815FC /* Brad-Pitt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Brad-Pitt.jpg"; sourceTree = "<group>"; };
+		E81515E91ECB7CA200C815FC /* evangeline-lilly.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "evangeline-lilly.jpg"; sourceTree = "<group>"; };
+		E81515EA1ECB7CA200C815FC /* halle-berry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "halle-berry.jpg"; sourceTree = "<group>"; };
+		E81515EB1ECB7CA200C815FC /* Mila-Kunis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mila-Kunis.jpg"; sourceTree = "<group>"; };
+		E81515EC1ECB7CA200C815FC /* miranda-lambert.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "miranda-lambert.jpg"; sourceTree = "<group>"; };
+		E81515ED1ECB7CA200C815FC /* Patricia-Beck.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Patricia-Beck.jpg"; sourceTree = "<group>"; };
+		E81515EE1ECB7CA200C815FC /* sara_evans.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sara_evans.jpg; sourceTree = "<group>"; };
+		E81515EF1ECB7CA200C815FC /* steve_jobs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = steve_jobs.jpg; sourceTree = "<group>"; };
+		E81515F01ECB7CA200C815FC /* taylor-swift.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "taylor-swift.jpg"; sourceTree = "<group>"; };
+		E81515FD1ECB7CB600C815FC /* contacts.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = contacts.plist; sourceTree = "<group>"; };
+		E81515FF1ECB7E0E00C815FC /* ContactsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactsTableViewController.swift; sourceTree = "<group>"; };
+		E81516011ECB7E6B00C815FC /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
+		E81516031ECB949C00C815FC /* ContactDetailTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactDetailTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +84,69 @@
 		E81515CD1ECB7AE500C815FC /* ContactsTableView */ = {
 			isa = PBXGroup;
 			children = (
+				E81515E41ECB7C2000C815FC /* Storyboard */,
+				E81515E31ECB7C1800C815FC /* TableViewCell */,
+				E81515E21ECB7C0F00C815FC /* TableViewController */,
+				E81515E11ECB7C0800C815FC /* Images */,
+				E81515E01ECB7BFE00C815FC /* Databbase */,
 				E81515CE1ECB7AE500C815FC /* AppDelegate.swift */,
-				E81515D01ECB7AE500C815FC /* ViewController.swift */,
-				E81515D21ECB7AE500C815FC /* Main.storyboard */,
 				E81515D51ECB7AE500C815FC /* Assets.xcassets */,
-				E81515D71ECB7AE500C815FC /* LaunchScreen.storyboard */,
 				E81515DA1ECB7AE500C815FC /* Info.plist */,
 			);
 			path = ContactsTableView;
+			sourceTree = "<group>";
+		};
+		E81515E01ECB7BFE00C815FC /* Databbase */ = {
+			isa = PBXGroup;
+			children = (
+				E81515FD1ECB7CB600C815FC /* contacts.plist */,
+			);
+			name = Databbase;
+			sourceTree = "<group>";
+		};
+		E81515E11ECB7C0800C815FC /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				E81515E51ECB7CA200C815FC /* Barack-Obama.jpg */,
+				E81515E61ECB7CA200C815FC /* bill-gates.jpg */,
+				E81515E71ECB7CA200C815FC /* Brad-Paisley.jpg */,
+				E81515E81ECB7CA200C815FC /* Brad-Pitt.jpg */,
+				E81515E91ECB7CA200C815FC /* evangeline-lilly.jpg */,
+				E81515EA1ECB7CA200C815FC /* halle-berry.jpg */,
+				E81515EB1ECB7CA200C815FC /* Mila-Kunis.jpg */,
+				E81515EC1ECB7CA200C815FC /* miranda-lambert.jpg */,
+				E81515ED1ECB7CA200C815FC /* Patricia-Beck.jpg */,
+				E81515EE1ECB7CA200C815FC /* sara_evans.jpg */,
+				E81515EF1ECB7CA200C815FC /* steve_jobs.jpg */,
+				E81515F01ECB7CA200C815FC /* taylor-swift.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		E81515E21ECB7C0F00C815FC /* TableViewController */ = {
+			isa = PBXGroup;
+			children = (
+				E81515FF1ECB7E0E00C815FC /* ContactsTableViewController.swift */,
+				E81516031ECB949C00C815FC /* ContactDetailTableViewController.swift */,
+			);
+			name = TableViewController;
+			sourceTree = "<group>";
+		};
+		E81515E31ECB7C1800C815FC /* TableViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				E81516011ECB7E6B00C815FC /* CustomTableViewCell.swift */,
+			);
+			name = TableViewCell;
+			sourceTree = "<group>";
+		};
+		E81515E41ECB7C2000C815FC /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				E81515D21ECB7AE500C815FC /* Main.storyboard */,
+				E81515D71ECB7AE500C815FC /* LaunchScreen.storyboard */,
+			);
+			name = Storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +209,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E81515F81ECB7CA200C815FC /* miranda-lambert.jpg in Resources */,
+				E81515FA1ECB7CA200C815FC /* sara_evans.jpg in Resources */,
+				E81515F11ECB7CA200C815FC /* Barack-Obama.jpg in Resources */,
+				E81515FB1ECB7CA200C815FC /* steve_jobs.jpg in Resources */,
+				E81515FC1ECB7CA200C815FC /* taylor-swift.jpg in Resources */,
 				E81515D91ECB7AE500C815FC /* LaunchScreen.storyboard in Resources */,
+				E81515F91ECB7CA200C815FC /* Patricia-Beck.jpg in Resources */,
+				E81515FE1ECB7CB600C815FC /* contacts.plist in Resources */,
+				E81515F31ECB7CA200C815FC /* Brad-Paisley.jpg in Resources */,
 				E81515D61ECB7AE500C815FC /* Assets.xcassets in Resources */,
+				E81515F51ECB7CA200C815FC /* evangeline-lilly.jpg in Resources */,
+				E81515F71ECB7CA200C815FC /* Mila-Kunis.jpg in Resources */,
+				E81515F61ECB7CA200C815FC /* halle-berry.jpg in Resources */,
+				E81515F41ECB7CA200C815FC /* Brad-Pitt.jpg in Resources */,
 				E81515D41ECB7AE500C815FC /* Main.storyboard in Resources */,
+				E81515F21ECB7CA200C815FC /* bill-gates.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +235,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E81515D11ECB7AE500C815FC /* ViewController.swift in Sources */,
+				E81516021ECB7E6B00C815FC /* CustomTableViewCell.swift in Sources */,
+				E81516001ECB7E0E00C815FC /* ContactsTableViewController.swift in Sources */,
 				E81515CF1ECB7AE500C815FC /* AppDelegate.swift in Sources */,
+				E81516041ECB949C00C815FC /* ContactDetailTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
